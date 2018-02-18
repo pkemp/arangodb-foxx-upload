@@ -1,7 +1,7 @@
 {
   "name": "arangodb-foxx-upload",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package will make packaging and distributing of your Foxx services a breeze.",
   "main": "index.js",
   "repository": {
