@@ -47,8 +47,8 @@ $ npm install arangodb-foxx-upload --save-dev
     "host": "<ip or domain>",
     "username": "<arangodb portal username>",
     "password": "<arangodb portal password>",
-    "ssl": <true|false does the connection use ssl?>,
-    "port": <8529 on which port does arangodb run?>,
+    "ssl": "<true|false: Boolean - does the connection use ssl?>",
+    "port": "<8529: Number - on which port does arangodb run?>",
     "service": "<With which name do you want to deploy the service?>",
     "client_passphrase": "<optional: client-certificate private key passphrase",
     "manifest": {
