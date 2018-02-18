@@ -1,0 +1,19 @@
+{
+  "name": "arangodb-foxx-upload",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "This npm package will make packaging and distributing of your Foxx services a breeze.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:Gerrel/arangodb-foxx-upload.git"
+  },
+  "author": "Gerrel Krishan",
+  "dependencies": {
+    "compressing": "1.2.3",
+    "request": "2.83.0"
+  },
+  "bin": {
+    "arangodb-deploy": "index.js"
+  }
+}
