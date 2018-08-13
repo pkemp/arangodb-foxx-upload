@@ -3,6 +3,10 @@
 
 This npm package makes packaging and distributing of your Foxx services possible with just one npm run command.
 
+### Update
+
+This version has modified HTTP requests as original didn't work with my ArangoDB 3.3 installation.
+
 ### Installation
 
 ```
